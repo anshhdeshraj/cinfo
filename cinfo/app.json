@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "cinfo",
+    "slug": "cinfo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#0000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier" :"com.ansh15150.cinfo"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0000"
+      },
+      "package": "com.ansh15150.cinfo"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b1d08428-b8db-464d-99f7-2b147545bb65"
+      }
+    }
+  }
+}
