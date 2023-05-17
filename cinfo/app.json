@@ -16,21 +16,21 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier" :"com.ansh15150.cinfo"
+      "bundleIdentifier" :"com.your_username.cinfo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#0000"
       },
-      "package": "com.ansh15150.cinfo"
+      "package": "com.your_username.cinfo"
     },
     "web": {
       "favicon": "./assets/icon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "b1d08428-b8db-464d-99f7-2b147545bb65"
+        "projectId": "your_project_id_generated_automatically"
       }
     }
   }
