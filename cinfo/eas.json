@@ -5,10 +5,10 @@
   "build": {
     
   "android": {
-    "keystore": "cinfo_key.keystore",
-    "keystorePassword": "373ftnn5123",
+    "keystore": "your_keystore_id",
+    "keystorePassword": "your_keystore_password",
     "keyAlias": "cinfo",
-    "keyPassword": "373ftnn5123"
+    "keyPassword": "your_key_passwors"
     
   } ,
     "development": {
